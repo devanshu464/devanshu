@@ -20,4 +20,5 @@ sub=a-b;
 printf("subtract is %d",sub);
 return (0);
 }
+int
 
