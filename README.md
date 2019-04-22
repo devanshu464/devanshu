@@ -1,23 +1,26 @@
-# devanshu
-#include<stdio.h>
-int main()
-{
-int a,b,sum=0;
-printf("sum of two numbers");
-printf("Enter two numbers a and b");
-scanf("%d%d",&a,&b);
-sum=a+b;
-printf("Sum is %d",sum);
-return (0);
-}
-#include<stdio.h>
-int main()
-{
-int a,b,sub=0;
-printf("enter two numbers a and b");
-scanf("%d%d",&a,&b);
-sub=a-b;
-printf("subtract is %d",sub);
-return (0);
-}
+**CRIME RECORD MANAGEMENT SYSTEM**
+1.DEVELOPED USING WAMP SERVER IN WINDOWS 10"
+2.IMPORT SQL FILE IN WAMP SERVER
+3.PASSWORD FOR DATABASE:
+	localhost:root
+	password:(leaveblank)
+4.RUN IN WAMP LOCALHOST
 
+ **********************COMPUTER GRAPHICS*******************************
+1.**CLIENT-SERVER**
+	1.DEVELOPED USING UBUNTU(14.04) OPENGL TOOL
+	2.TO WRITE TYPE "gedit filename.c" IN TERMINAL , WRITE/COPY SOURCE CODE.
+	3.COMPILE USING "g++ filename.c -lgut -lGLEW -lGLU -o OpenGLfilename.
+	4.RUN USING "./OpenGLfilename.
+	
+2.**PROCESS-SCHEDULING**
+	1.1.DEVELOPED USING UBUNTU(14.04) OPENGL TOOL
+	2.TO WRITE TYPE "gedit filename.c" IN TERMINAL , WRITE/COPY SOURCE CODE.
+	3.COMPILE USING "g++ filename.c -lgut -lGLEW -lGLU -o OpenGLfilename.
+	4.RUN USING "./OpenGLfilename.
+	
+**C PROJECT**
+1.**PERIODIC.C**
+	1.DEVELOPED USING DEV-C++ IN WINDOWS 10.
+	2.COPY AND CLICK ON COMPILE & RUN
+	
